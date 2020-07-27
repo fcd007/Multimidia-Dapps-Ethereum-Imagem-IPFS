@@ -12,9 +12,7 @@ Este projeto é um aplicativo descentralizado Ethereum (dApp) usando React, Redu
 
 Nesta aplicação, a página principal exibe uma lista de cartões de imagem filtrados pelo proprietário, ou seja, conta MetaMask. Cada placa de imagem exibe a imagem, título, descrição, tags, carimbo de data e hora de upload e hash IPFS.
 
-![IPFS Image dApp](../master/assets/screenshots/app.png?raw=true 'IPFS Image dApp')
-
-### Upload imaagem
+### Upload imagem
 
 Clique para enviar a imagem conforme adicinado no repositório
 
@@ -179,11 +177,19 @@ Caso deseje pode ver um passo a passo[Deploy Your Smart Contract Directly from T
 ## Documentação oficial de ajuda?
 
 1 - [Truffle](http://truffleframework.com/)
+
+
 2- [create-react-app](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md). 
 
+
 3- [Ethereum Project](https://ethereum.org/)
+
+
 4 - [OpenZeppelin](https://openzeppelin.org/)
+
+
 5 - [IPFS](https://ipfs.io/).
+
 
 ## Notas sobre o front-end
 
